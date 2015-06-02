@@ -172,7 +172,7 @@
             var selected = $(element).prop('selected');
             $allSelected = $allSelected && selected;
             if ($(element).data('tabs')) {
-                $.each($(element).data('tabs').split(','), function(i, el){
+                $.each(String($(element).data('tabs')).split(','), function(i, el){
                     if($.inArray(el, $tabs) === -1) $tabs.push(el);
                 });            
             }
