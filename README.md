@@ -1,5 +1,5 @@
 # Bootstrap list picker
-Extends HTML's native multiple-select input to provide additional functionality. Introduces a [ListPicker]() class that operates behind the scenes to handle multiple-select inputs by listening on their events.
+Extends HTML's native multiple-select input to provide additional functionality. Introduces a [ListPicker](https://github.com/0xC70FF3/bootstrap-list-picker/blob/master/js/bootstrap-listpicker.js) class that operates behind the scenes to handle multiple-select inputs by listening on their events.
 
 [Bootstrap](http://twitter.github.io/bootstrap/) list picker works better when used with [Bootstrap input clear button](https://github.com/mahpour/bootstrap-input-clear-button/blob/master/bootstrap.input-clear.js) from Ehsan Mahpour.
 
