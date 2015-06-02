@@ -1,17 +1,17 @@
-# Bootstrap list picker
+### Bootstrap list picker
 Extends HTML's native multiple-select input to provide additional functionality. Introduces a [ListPicker](https://github.com/0xC70FF3/bootstrap-list-picker/blob/master/js/bootstrap-listpicker.js) class that operates behind the scenes to handle multiple-select inputs by listening on their events.
 
 [Bootstrap](http://twitter.github.io/bootstrap/) list picker works better when used with [Bootstrap input clear button](https://github.com/mahpour/bootstrap-input-clear-button/blob/master/bootstrap.input-clear.js) from Ehsan Mahpour.
 
-### Demo
+##### Demo
 A live demo can be found [here](http://0xc70ff3.github.io/demos/bootstrap-listpicker/).
 
-### Installation
+##### Installation
 - Download the lastest version [here](https://github.com/0xC70FF3/bootstrap-list-picker/archive/master.zip) and unzip.
 - Include `css/bootstrap-listpicker.css` after the main bootstrap css files.
 - Include `js/bootstrap.input-clear.js` and `js/bootstrap-listpicker.js` after the main bootstrap js files.
  
-### HTML Code Example
+##### HTML Code Example
 This example can also be seen in action in index.html:
 ```html
     <!-- Core CSS -->
@@ -47,8 +47,8 @@ This example can also be seen in action in index.html:
     </form>
 ```
 
-### Configuration Options
-#### sort
+##### Configuration Options
+###### sort
 Define if the picker source list have to be sorted or not at anytime.
 ```javascript
 $(document).ready(function() {
@@ -58,7 +58,7 @@ $(document).ready(function() {
 });
 ```
 
-#### delay
+###### delay
 Define the delay (in ms) between the last keyup event and the search action.
 ```javascript
 $(document).ready(function() {
@@ -67,3 +67,6 @@ $(document).ready(function() {
     });
 });
 ```
+
+##### References
+* SHA: a5c3785ed8d6a35868bc169f07e40e889087fd2e
