@@ -7,7 +7,7 @@ Extends HTML's native multiple-select input to provide additional functionality.
 A live demo can be found [here]().
 
 ### Installation
-- Download the lastest version [here]() and unzip.
+- Download the lastest version [here](https://github.com/0xC70FF3/bootstrap-list-picker/archive/master.zip) and unzip.
 - Include `css/bootstrap-listpicker.css` after the main bootstrap css files.
 - Include `js/bootstrap.input-clear.js` and `js/bootstrap-listpicker.js` after the main bootstrap js files.
  
