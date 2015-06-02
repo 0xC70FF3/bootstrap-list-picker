@@ -69,4 +69,7 @@ $(document).ready(function() {
 ```
 
 ##### References
-* SHA: a5c3785ed8d6a35868bc169f07e40e889087fd2e
+
+* Twitter Boostrap: http://twitter.github.io/bootstrap/
+* Bootstrap input clear button: https://github.com/mahpour/bootstrap-input-clear-button/blob/master/bootstrap.input-clear.js
+* jQuery: http://api.jquery.com/
