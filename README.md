@@ -73,3 +73,7 @@ $(document).ready(function() {
 * [Twitter Boostrap](http://twitter.github.io/bootstrap/)
 * [Bootstrap input clear button](https://github.com/mahpour/bootstrap-input-clear-button/blob/master/bootstrap.input-clear.js)
 * [jQuery](http://api.jquery.com/)
+
+#####License
+
+MIT license - [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
