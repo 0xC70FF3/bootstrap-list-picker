@@ -4,7 +4,7 @@ Extends HTML's native multiple-select input to provide additional functionality.
 [Bootstrap](http://twitter.github.io/bootstrap/) list picker works better when used with [Bootstrap input clear button](https://github.com/mahpour/bootstrap-input-clear-button/blob/master/bootstrap.input-clear.js) from Ehsan Mahpour.
 
 ### Demo
-A live demo can be found [here]().
+A live demo can be found [here](http://0xc70ff3.github.io/demos/bootstrap-listpicker/).
 
 ### Installation
 - Download the lastest version [here](https://github.com/0xC70FF3/bootstrap-list-picker/archive/master.zip) and unzip.
