@@ -70,6 +70,6 @@ $(document).ready(function() {
 
 ##### References
 
-* Twitter Boostrap: http://twitter.github.io/bootstrap/
-* Bootstrap input clear button: https://github.com/mahpour/bootstrap-input-clear-button/blob/master/bootstrap.input-clear.js
-* jQuery: http://api.jquery.com/
+> Twitter Boostrap: http://twitter.github.io/bootstrap/
+> Bootstrap input clear button: https://github.com/mahpour/bootstrap-input-clear-button/blob/master/bootstrap.input-clear.js
+> jQuery: http://api.jquery.com/
