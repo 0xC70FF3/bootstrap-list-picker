@@ -74,6 +74,6 @@ $(document).ready(function() {
 * [Bootstrap input clear button](https://github.com/mahpour/bootstrap-input-clear-button/blob/master/bootstrap.input-clear.js)
 * [jQuery](http://api.jquery.com/)
 
-#####License
+##### License
 
 MIT license - [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
